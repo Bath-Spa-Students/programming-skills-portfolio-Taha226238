@@ -1,0 +1,8 @@
+# Define three different strings in variables
+string1 = "Hello"
+string2 = ", "
+string3 = "world!"
+
+# Concatenate the strings into one and print the output
+combined_string = string1 + string2 + string3
+print(combined_string)
