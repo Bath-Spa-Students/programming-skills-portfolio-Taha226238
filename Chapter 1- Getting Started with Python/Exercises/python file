@@ -1,0 +1,9 @@
+name="taha"
+name="kamran"
+print(name)
+
+print (13/4)
+print (12/3)
+
+name= input("enter name:")
+print(name)
