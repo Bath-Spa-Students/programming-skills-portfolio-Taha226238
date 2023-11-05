@@ -1,4 +1,4 @@
-fruits = ["apple", "banana", "cherry"]
+fruits = ["banana", "watermelon", "kiwi"]
 
 # Unpack the list into variables x, y, and z
 x, y, z = fruits
