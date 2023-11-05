@@ -1,8 +1,8 @@
 person_info = {
-    'first_name': 'John',
-    'last_name': 'Doe',
-    'age': 30,
-    'city': 'New York'
+    'first_name': 'taha',
+    'last_name': 'khan',
+    'age': 18,
+    'city': 'Ajman'
 }
 
 print("First Name: " + person_info['first_name'])
