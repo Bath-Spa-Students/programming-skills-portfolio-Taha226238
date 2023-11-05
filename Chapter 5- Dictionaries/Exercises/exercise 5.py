@@ -1,10 +1,10 @@
 # Create a list of dictionaries representing different pets
 pets = [
-    {'kind': 'Dog', 'owner': 'Alice'},
-    {'kind': 'Cat', 'owner': 'Bob'},
-    {'kind': 'Fish', 'owner': 'Charlie'},
-    {'kind': 'Bird', 'owner': 'David'},
-    {'kind': 'Rabbit', 'owner': 'Eve'}
+    {'kind': 'Dog', 'owner': 'taha'},
+    {'kind': 'Cat', 'owner': 'irtaza'},
+    {'kind': 'Fish', 'owner': 'abdu'},
+    {'kind': 'Bird', 'owner': 'faseeh'},
+    {'kind': 'Rabbit', 'owner': 'kamran'}
 ]
 
 # Loop through the list and print information about each pet
