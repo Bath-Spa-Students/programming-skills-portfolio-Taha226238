@@ -1,5 +1,5 @@
 # Define the person's name with whitespace at the beginning and end
-name = "\t\n   John Doe   \t\n"
+name = "\t\n   taha khan   \t\n"
 
 # Print the name once to display the whitespace around it
 print("Original Name:", name)
