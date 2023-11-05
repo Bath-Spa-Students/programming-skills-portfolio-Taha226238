@@ -1,5 +1,5 @@
 # Create a list of places to visit
-places_to_visit = ["Paris", "Tokyo", "New York", "Venice", "Sydney"]
+places_to_visit = ["karachi", "lahore", "islamabad", "balochistan", "kashmir"]
 
 # Print the original list
 print("Original List:", places_to_visit)
