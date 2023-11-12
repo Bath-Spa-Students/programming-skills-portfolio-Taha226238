@@ -1,5 +1,5 @@
 # Input from the user
-user_input = input("Enter a value: ")
+user_input = input("Enter the value: ")
 
 # Typecast the input to string, int, and float
 as_string = str(user_input)
