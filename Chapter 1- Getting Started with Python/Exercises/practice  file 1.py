@@ -1,4 +1,4 @@
-print("W")
-print("X")
-print("Y")
-print("Z")
+print("T")
+print("A")
+print("H")
+print("A")
