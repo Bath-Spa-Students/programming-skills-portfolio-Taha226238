@@ -1,9 +1,13 @@
-alien_color = 'green'  # You can change this value to 'yellow' or 'red' to test different versions
+  # You can change this value to 'yellow' or 'red' to test different versions
+
+alien_color = 'green'
 
 if alien_color == 'green':
-    print("Congratulations! You just earned 5 points.")
+    print("Congratulations! You have just earned 5 points.")
 
-alien_color = 'red'  # This version has 'red', which fails the if test
+# This version has 'red', which fails the if test
+
+alien_color = 'red'  
 
 if alien_color == 'green':
-    print("Congratulations! You just earned 5 points.")
+    print("Congratulations! You have just earned 5 points.")
