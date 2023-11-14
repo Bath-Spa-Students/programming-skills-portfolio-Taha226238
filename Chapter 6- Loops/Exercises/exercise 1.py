@@ -2,10 +2,10 @@
 pizza_toppings = []
 
 while True:
-    topping = input("Enter a pizza topping (or 'quit' to finish): ")
+    topping = input("Enter your favirote pizza topping (or 'sauce' to pepporni): ")
     
-    if topping.lower() == 'quit':
-        break  # Exit the loop if 'quit' is entered
+    if topping.lower() == 'sauce':
+        break  # Exit the loop if 'sauce' is entered
     else:
         pizza_toppings.append(topping)
 

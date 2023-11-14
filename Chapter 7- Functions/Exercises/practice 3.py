@@ -12,6 +12,7 @@ def is_prime(number):
         if number % i == 0 or number % (i + 2) == 0:
             return False  # If the number is divisible by i or i + 2, it's not prime
         i += 9
+        
 
     return True
 
