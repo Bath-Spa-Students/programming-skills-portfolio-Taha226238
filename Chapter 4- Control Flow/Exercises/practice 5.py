@@ -1,5 +1,5 @@
 # Get the month as input from the user
-month = input("Enter a month (e.g., January, February, etc.): ")
+month = input("Enter the month (e.g., January, February, etc.): ")
 
 # Convert the input to lowercase to handle case-insensitivity
 month = month.lower()
