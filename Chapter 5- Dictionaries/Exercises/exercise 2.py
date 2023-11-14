@@ -1,8 +1,8 @@
 programming_glossary = {
-    'variable': 'A named storage location in a program that can hold data or values.',
-    'function': 'A reusable block of code that performs a specific task.',
-    'loop': 'A control structure that allows a set of instructions to be executed repeatedly.',
-    'list': 'An ordered collection of items, which can be of different types.',
+    'variable': 'A named storage location in a program that can hold the  data or values.',
+    'function': 'A reusable block  code that performs a specific task.',
+    'loop': 'A control structure that allows a set of instructions that can be executed repeatedly.',
+    'list': 'An ordered collection of items, which is of different types.',
     'conditional statement': 'A statement that performs different actions depending on whether a condition is True or False.'
 }
 
