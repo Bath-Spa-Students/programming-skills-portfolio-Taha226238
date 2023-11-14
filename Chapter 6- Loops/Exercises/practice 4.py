@@ -5,4 +5,4 @@ for number in range(1, 11):
         print(f"Found the target value: {target_value}")
         break  # Exit the loop when the condition is met
     else:
-        print(f"Current number: {number}")
+        print(f"the number is: {number}")
