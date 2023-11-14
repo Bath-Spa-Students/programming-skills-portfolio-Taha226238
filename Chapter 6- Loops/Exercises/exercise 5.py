@@ -1,15 +1,15 @@
-# Create a list of sandwich orders with pastrami
-sandwich_orders = ["pastrami", "tuna", "pastrami", "turkey", "club", "pastrami", "ham and cheese", "vegetarian"]
+# Create a list of sandwich orders with chicken cheese
+sandwich_orders = ["chicken cheese", "tandoori", "tikka", "sausage", "club", "nuterella", " cheese", "vegetarian"]
 
 # Create an empty list for finished sandwiches
 finished_sandwiches = []
 
-# Print a message about running out of pastrami
-print("Sorry, we've run out of pastrami sandwiches.")
+# Print a message about running out of chicken cheese
+print("Sorry, we've run out of chicken cheese sandwiches.")
 
-# Remove all occurrences of 'pastrami' from sandwich_orders
-while "pastrami" in sandwich_orders:
-    sandwich_orders.remove("pastrami")
+# Remove all occurrences of 'chicken ' from sandwich_orders
+while "chicken cheese" in sandwich_orders:
+    sandwich_orders.remove("chicken cheese")
 
 # Loop through the remaining sandwich orders
 while sandwich_orders:
