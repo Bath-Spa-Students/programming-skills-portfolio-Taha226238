@@ -2,6 +2,6 @@
 speed = 40  # Replace with the actual value of "speed"
 
 if 24 <= speed <= 56:
-    print("Speed is normal")
+    print("the Speed is normal")
 else:
-    print("Speed is abnormal")
+    print("the Speed is abnormal")
