@@ -1,7 +1,7 @@
 largest = None  # Initialize the variable to store the largest number
 
 while True:
-    user_input = input("Enter a number (or 0 to exit): ")
+    user_input = input("Enter your number (or 0 to exit): ")
 
     if user_input == '0':
         break  # Exit the loop if the user enters '0'
@@ -14,6 +14,6 @@ while True:
         print("Invalid input. Please enter a number or '0' to exit.")
 
 if largest is not None:
-    print(f"The largest number entered is: {largest}")
+    print(f"The biggest number you have entered is: {largest}")
 else:
-    print("No valid numbers were entered.")
+    print("the number is not valid.")
