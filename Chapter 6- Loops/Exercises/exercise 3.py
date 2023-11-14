@@ -1,10 +1,10 @@
 while True:
-    age = input("How old are you?" )
+    age = input("what is your age?" )
     
     age = int(age)
     if age < 3:
-        print("your ticket is free")
+        print("the ticket is free")
     elif age < 12:
-        print("your ticket is $10") 
+        print("the ticket is $10") 
     else:
-        print("your ticket is $15")
+        print("the ticket is $15")
