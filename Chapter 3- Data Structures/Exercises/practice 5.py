@@ -10,8 +10,8 @@ for i in range(len(list1)):
         break
 
 if found:
-    print("Value 20 has been replaced with 200:")
+    print("Value 20 has replaced with 200:")
 else:
-    print("Value 20 not found in the list.")
+    print("Value 20 is not found in the list.")
 
 print(list1)
