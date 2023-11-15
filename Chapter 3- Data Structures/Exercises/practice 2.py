@@ -1,1 +1,2 @@
-astronomers = ['Einstein', 'Newton', 'Copernicus', 'Kepler']
+scientists = ['Einstein', 'Newton', 'Copernicus', 'Kepler']
+
