@@ -9,5 +9,5 @@ num_usb_sticks = budget // usb_stick_cost
 remaining_pounds = budget % usb_stick_cost
 
 # Display the results
-print("The girl  buy", num_usb_sticks, "USB sticks.")
+print("The girl have  buy", num_usb_sticks, "USB sticks.")
 print("She will have", remaining_pounds, "pounds left.")
